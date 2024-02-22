@@ -1939,19 +1939,20 @@
     display: none;
 }    
     .logobox .navbar-brand{
-        width: 250px;
+        width: 270px;
         position: relative;
         top: inherit;
         left: inherit;
         right: inherit;
         margin-left: 0;
         height: auto;
+        padding: 0 0 !important;
     }    
     
-.navbar-brand {
+/* .navbar-brand {
     max-width: 200px;
     padding: 0 !important;
-}
+} */
 .join_us-button{
     display: none;
 }
