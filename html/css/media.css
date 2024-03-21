@@ -2774,7 +2774,10 @@
     
     
     
-    
+.aboutpage_section1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}    
 .aboutpage_section1{
     padding-top: 50px;
 }    
@@ -2872,8 +2875,12 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
-
+.is-10577-table1 {
+    overflow-x: scroll;
+}
+.faqpage_section1{
+    padding: 50px 0;
+}
 
 
 
